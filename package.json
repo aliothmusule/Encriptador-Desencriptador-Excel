@@ -1,0 +1,18 @@
+{
+  "name": "encriptar_excel_alioth",
+  "version": "1.0.0",
+  "description": "Codigo para encriptar la contraseña de una columna de excel, se guarda en otro archivo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alioth musule a.",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "colorette": "^2.0.20",
+    "fs": "^0.0.1-security",
+    "progress": "^2.0.3",
+    "xlsx": "^0.18.5"
+  }
+}
